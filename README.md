@@ -2,6 +2,11 @@
 
 ## Instructions
 
+Install the dependencies using
+```
+pip install -r requirements.txt
+```
+
 Open your blank Minecraft book and tab out.
 
 Run the script with
